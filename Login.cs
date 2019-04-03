@@ -11,19 +11,6 @@ public class Login : MonoBehaviour {
 
 	string[] user = new string[100] ;
 	
-	
-	//Documentazione inerente al invio di dati e ricezione
-	//dal database a Unity e vice versa
-
-	//creazione delle stringhe per la connsessione con le pagine
-	// php GET e POST, dal GET si ricevono i dati, dal POST si inviano
-	// GET= ricevo
-	//POST= invio
-	
-/*
-	public string postUrl = "http://localhost:8080/calcio/calcioPost.php";
-	public string getUrl = "http://localhost:8080/calcio/calcioGet.php";
-	public string updateUrl = "http://localhost:8080/calcio/calcioUpdate.php";
 */
 	public string postUrl = "http://applicazionepercellulare.esy.es/calcioPost.php";
 	public string getUrl = "http://applicazionepercellulare.esy.es/calcioGet.php";
