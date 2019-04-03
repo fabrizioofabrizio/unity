@@ -29,7 +29,7 @@ public class Login : MonoBehaviour {
 	public string getUrl = "http://applicazionepercellulare.esy.es/calcioGet.php";
 	public string updateUrl = "http://applicazionepercellulare.esy.es/calcioUpdate.php";
 
-	public string Url = "";
+	public string myUrl = "";
 
 	// player è il nome di un campo
 	// num è l'id incrementale
