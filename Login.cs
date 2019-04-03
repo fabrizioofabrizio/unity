@@ -121,15 +121,6 @@ public class Login : MonoBehaviour {
 		
 		//stampa il contenuto del POST
 		Debug.Log(postNome.text);	
-		
-		//incrementa il valore di num per aumentare l'id all'interno del server
-		//num = num + 1;
-		
-		
-		//alla fine avremo un file nel server con 
-		//un ID che incrementa di uno ogni volta che viene premuto il tasto salva
-		//un NOME che corrisponde al campo nome del nostro server
-		
 		//P.S. va creato un server con almeno due campi di cui uno  id e un nome
 	}
 	
